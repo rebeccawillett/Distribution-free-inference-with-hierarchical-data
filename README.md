@@ -1,5 +1,5 @@
 # Distribution-free-inference-with-hierarchical-data
-This repository contains code for the paper [Distribution-free inference with hierarchical data](https://arxiv.org/abs/2306.06342) by Yonghoon Lee, Rina Foygel Barber, and Rebecca Willett. 
+This repository contains code for the paper "Distribution-free inference with hierarchical data". 
 
 - `Simulation1.ipynb` reproduces the simulation in Section 2.
 - `Simulation2.ipynb` reproduces the simulation in Section 3.
